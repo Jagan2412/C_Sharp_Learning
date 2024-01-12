@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Besant\\CSharp_Learning\\CSharp_Learning\\CSharp_Learning.csproj": {}
+    "E:\\Besant\\New folder\\C_Sharp_Learning\\CSharp_Learning\\CSharp_Learning.csproj": {}
   },
   "projects": {
-    "E:\\Besant\\CSharp_Learning\\CSharp_Learning\\CSharp_Learning.csproj": {
+    "E:\\Besant\\New folder\\C_Sharp_Learning\\CSharp_Learning\\CSharp_Learning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Besant\\CSharp_Learning\\CSharp_Learning\\CSharp_Learning.csproj",
+        "projectUniqueName": "E:\\Besant\\New folder\\C_Sharp_Learning\\CSharp_Learning\\CSharp_Learning.csproj",
         "projectName": "CSharp_Learning",
-        "projectPath": "E:\\Besant\\CSharp_Learning\\CSharp_Learning\\CSharp_Learning.csproj",
+        "projectPath": "E:\\Besant\\New folder\\C_Sharp_Learning\\CSharp_Learning\\CSharp_Learning.csproj",
         "packagesPath": "C:\\Users\\jagan\\.nuget\\packages\\",
-        "outputPath": "E:\\Besant\\CSharp_Learning\\CSharp_Learning\\obj\\",
+        "outputPath": "E:\\Besant\\New folder\\C_Sharp_Learning\\CSharp_Learning\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jagan\\AppData\\Roaming\\NuGet\\NuGet.Config",
