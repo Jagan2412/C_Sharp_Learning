@@ -5,8 +5,7 @@ namespace CSharp_Learning
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi");
-            Console.ReadLine();
+            ClassandObject_Example.SimplePrintStatement();
         }
     }
 }
